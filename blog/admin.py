@@ -14,3 +14,4 @@ class PostAdmin(admin.ModelAdmin):
 
 
 ## There was a mistake in login inthe admin panel
+## New changes
