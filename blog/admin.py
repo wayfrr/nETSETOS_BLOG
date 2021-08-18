@@ -11,3 +11,6 @@ class PostAdmin(admin.ModelAdmin):
 	raw_id_fields = ('author',)
 	date_hierarchy = 'publish'
 	ordering = ('status','publish')
+
+
+## There was a mistake in login inthe admin panel
